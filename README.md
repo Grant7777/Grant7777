@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grant7777
+- 👋 Hi, I’m @OutShreddin
 - 👀 I’m interested in probability, statistical modelling, trend analysis, and uncertainty. 
 - Researching Avalanche
 <!---
