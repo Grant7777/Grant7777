@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @OutShreddin
 - 👀 React Dev. I am doing some stuff with Ethereum at the moment with an aim to build an application in the Avalanche environment.
-- I love finance, trading, entreprenurship, and philosophy. 
+- I like trading, entreprenurship, and philosophy (virtue ethics, S. Kierkegaard, G.W.F. Hegel, F. Nietzsche, Plato, Aristotle).
