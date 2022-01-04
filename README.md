@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @OutShreddin
-- 👀 I’m interested in probability, statistical modelling, trend analysis, and uncertainty. 
-- Researching Avalanche
-<!---
-Grant7777/Grant7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 React Dev. I am doing some stuff with Ethereum at the moment with an aim to build an application in the Avalanche environment.
+- I love finance, trading, philosophy, and hitting on chicks.
+
